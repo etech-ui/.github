@@ -1,2 +1,2 @@
-# .github
-About us
+# etech-ui
+The best way to build your design system
